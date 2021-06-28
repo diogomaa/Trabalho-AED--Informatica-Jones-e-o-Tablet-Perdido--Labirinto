@@ -1,0 +1,38 @@
+#include <stdiO.H>
+		//O -\xDB
+		//Z -\xB2
+		//  -\xBO
+		//- -\xB1
+		
+		main(){
+		printf("ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ\n");
+		printf("ZZ                                                 OO                                                                 ZZ\n");
+  		printf("ZZ                                               OOO                                            OOOOOOOOOOOOOOOOOOOOOOZZ\n");
+		printf("ZZ                                                                                              OO                    ZZ\n");
+		printf("ZZ  OO OOO   OO OOOOOO OOOOOO OOOOOO OO   OO OOOOOOOO OOOOOOOO OO OOOOOOO OOOOOOOO              OO                    ZZ\n");
+		printf("ZZ  OO OO O  OO OO     OO  OO OO  OO OOO OOO OO    OO    OO    OO OO      OO    OO              OOOOOOOOOOOOOOO       ZZ\n");
+		printf("ZZ  OO OO  O OO OOOOOO OO  OO OOOOO  OO O OO OOOOOOOO    OO    OO OO      OOOOOOOO                           OO       ZZ\n");
+		printf("ZZ  OO OO   OOO OO     OO  OO OO OO  OO   OO OO    OO    OO    OO OO      OO    OO                           OO       ZZ\n");
+		printf("ZZ  OO OO    OO OO     OOOOOO OO  OO OO   OO OO    OO    OO    OO OOOOOOO OO    OO                           OO       ZZ\n");
+		printf("ZZ                                                                                                           OO       ZZ\n");
+		printf("ZZ                                             OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO       ZZ\n");
+		printf("ZZ OOOOOOOO           OOOOO OOOOO                       OO                                                            ZZ\n");
+		printf("ZZ    OO       OO  OO OO    OO                          OO                                                            ZZ\n");
+		printf("ZZ    OO OOOOO OOO OO OOOOO OOOOOO     OOOOO            OO OOOOOOOO OOOOOOO OO     OOOOO OOOOOOOO                     ZZ\n");
+		printf("ZZ    OO OO OO OO OOO OO        OO     OO               OO OO    OO OO   OO OO     OO       OO                        ZZ\n");
+		printf("ZZ  OOOO OOOOO OO  OO OOOOO     OO     OOOOO   OOOOOO   OO OOOOOOOO OOOOOOO OO     OOOOO    OO                        ZZ\n");										   
+		printf("ZZ                              OO     OO      OO  OO   OO OO    OO OO   OO OO     OO       OO                        ZZ\n");
+		printf("ZZ    OOOOOOOOOOOOOOOOOOOOOOOOOOOO     OOOOO   OOOOOO   OO OO    OO OOOOOOO OOOOOO OOOOO    OO                        ZZ\n");
+		printf("ZZ                                                                                                                    ZZ\n");	
+		printf("ZZ  OOOOOOO                                                ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ\n");
+		printf("ZZ  OO   OO OOOOO OOOOOO OOOOO  OO OOOOO   OOOOOO    OO    ZZ---------------------------------------------------------ZZ\n");
+		printf("ZZ  OO   OO OO    OO  OO OO   O OO OO   O  OO  OO    OO    ZZ-OO---OO-OOOOO-OO---OO-OO---OO--OO-----------------------ZZ\n");
+		printf("ZZ  OOOOOOO OOOOO OOOOO  OO   O OO OO   O  OO  OO    OO    ZZ-OOO-OOO-OO----OOO--OO-OO---OO---------------------------ZZ\n");
+		printf("ZZ  OO      OO    OO OO  OO   O OO OO   O  OO  OO          ZZ-OO-O-OO-OOOOO-OO-O-OO-OO---OO---------------------------ZZ\n");
+		printf("ZZ  OO      OOOOO OO  OO OOOOO  OO OOOOO   OOOOOO          ZZ-OO---OO-OO----OO--OOO-OO---OO--OO-----------------------ZZ\n");
+   		printf("ZZ                                                   OO    ZZ-OO---OO-OOOOO-OO---OO-OOOOOOO----->>1---J%cGAR-----------ZZ\n",79);	
+   		printf("ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ                      ZZ----------------------------------->>2---REGRAS-%c%c-J%cG%c--ZZ\n",68,79,79,79);
+		printf("ZZ->>SELECIONA-A-TUA-OP\x80\xC7O:--ZZ                      ZZ----------------------------------->>3---SAIR------------ZZ\n");
+		printf("ZZ---------------------------------ZZ                      ZZ---------------------------------------------------------ZZ\n");		   	
+   		printf("ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ\n");	
+}
